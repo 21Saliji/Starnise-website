@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Set the background image */
+    /* background-image: url('starnise.jpg'); */
+    /* Make the background image cover the entire page */
+    background-size: cover;
+    /* Center the background image */
+    background-position: center;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    /* Add transparency for better readability */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.7);
+    /* Add transparency for better readability */
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    /* Add transparency for better readability */
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    /* Add transparency for better readability */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
